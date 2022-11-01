@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RadioButton</string>
+    <string name="male">男生</string>
+    <string name="female">女生</string>
+    <string name="hint_age">輸入年齡</string>
+    <string name="suggestion">婚姻建議</string>
+    <string name="no_hurry">不急</string>
+    <string name="find_partner">找對象</string>
+    <string name="get_marry">趕快結婚</string>
+</resources>
